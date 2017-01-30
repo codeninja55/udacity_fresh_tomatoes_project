@@ -1,0 +1,100 @@
+{"movies_db":
+	[
+		{
+			"title":"Iron Man",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ironmanposter.JPG/220px-Ironmanposter.JPG",
+			"youtube_url":"https://youtu.be/bA-ZPsK5S98"
+		},
+		{
+			"title":"The Incredible Hulk",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/thumb/8/88/The_Incredible_Hulk_poster.jpg/220px-The_Incredible_Hulk_poster.jpg",
+			"youtube_url":"https://youtu.be/uVy2dCoZvrE"
+		},
+		{
+			"title":"Iron Man 2",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Iron_Man_2_poster.jpg/220px-Iron_Man_2_poster.jpg",
+			"youtube_url":"https://youtu.be/Im5GBhif72U"
+		},
+		{
+			"title":"Thor",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Thor_poster.jpg/220px-Thor_poster.jpg",
+			"youtube_url":"https://youtu.be/JOddp-nlNvQ"
+		},
+		{
+			"title":"Captain America: The First Avenger",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Captain_America_The_First_Avenger_poster.jpg/220px-Captain_America_The_First_Avenger_poster.jpg",
+			"youtube_url":"https://youtu.be/ZCTv6i3589A"
+		},
+		{
+			"title":"Marvel's The Avengers",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg",
+			"youtube_url":"https://www.youtube.com/watch?v=eOrNdBpGMv8"
+		},
+		{
+			"title":"Iron Man 3",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg",
+			"youtube_url":"https://youtu.be/YLorLVa95Xo"
+		},
+        {
+			"title":"Thor: The Dark World",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg",
+			"youtube_url":"https://youtu.be/npvJ9FTgZbM"
+		},
+        {
+			"title":"Captain America: The Winter Soldier",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg",
+			"youtube_url":"https://youtu.be/7SlILk2WMTI"
+		},
+        {
+			"title":"Guardians of the Galaxy",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/8/8f/GOTG-poster.jpg",
+			"youtube_url":"https://youtu.be/d96cjJhvlMA"
+		},
+        {
+			"title":"The Avengers: Age of Ultron",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_of_Ultron.jpg",
+			"youtube_url":"https://youtu.be/JAUoeqvedMo"
+		},
+        {
+			"title":"Ant-Man",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_poster.jpg",
+			"youtube_url":"https://youtu.be/pWdKf3MneyI"
+		},
+        {
+			"title":"Captain America: Civil War",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+			"youtube_url":"https://youtu.be/dKrVegVI0Us"
+		},
+		{
+        	"title":"Doctor Strange",
+        	"storyline":"",
+        	"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg",
+        	"youtube_url":"https://youtu.be/HSzx-zryEgM"
+     	},
+		{
+			"title":"Spider-Man: Homecoming",
+        	"storyline":"",
+        	"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/2/27/SpiderMan_Homecoming_logo.jpg",
+        	"youtube_url":"https://youtu.be/8wNgphPi5VM"
+		},
+		{
+			"title":"Guardians of the Galaxy Vol. 2",
+			"storyline":"",
+			"poster_image_url":"https://upload.wikimedia.org/wikipedia/en/9/95/GotG_Vol2_poster.jpg",
+			"youtube_url":"https://youtu.be/dW1BIid8Osg"
+		}
+	]
+}
